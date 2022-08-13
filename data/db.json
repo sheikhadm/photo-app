@@ -1,0 +1,232 @@
+{
+   
+            
+            
+            "Baby Shower" :[
+                {
+                    "name":"Bob Frank",
+                    "age":25,
+                    "id":1,
+                    "location":"Lagos Nigeria",
+                    "dp":"/images/ap.jpg",
+                    "pictures":["/images/ab.jpg","/images/bb.jpg","/images/cb.jpg","/images/db.jpg","/images/eb.jpg"]
+                },
+                {
+                    "name":"Steve Walter",
+                    "age":30,
+                    "id":2,
+                    "location":"Arizona Usa",
+                    "dp":"/images/bp.jpg",
+                    "pictures":["/images/ab.jpg","/images/bb.jpg","/images/cb.jpg","/images/db.jpg","/images/eb.jpg"]
+                },
+                {
+                    "name":"sene Lupin",
+                    "age":28,
+                    "id":3,
+                    "location":"Paris France",
+                    "dp":"/images/cp.jpg",
+                    "pictures":["/images/ab.jpg","/images/bb.jpg","/images/cb.jpg","/images/db.jpg","/images/eb.jpg"]
+                },
+                {
+                    "name":"kate Rooney",
+                    "age":23,
+                    "id":4,
+                    "location":"Manchester England",
+                    "dp":"/images/dp.jpg",
+                    "pictures":["/images/ab.jpg","/images/bb.jpg","/images/cb.jpg","/images/db.jpg","/images/eb.jpg"]
+                },
+                {
+                    "name":"Victoria Leonard",
+                    "age":23,
+                    "id":5,
+                    "location":"Toronto Canada",
+                    "dp":"/images/ep.jpg",
+                    "pictures":["/images/ab.jpg","/images/bb.jpg","/images/cb.jpg","/images/db.jpg","/images/eb.jpg"]
+                },
+                {
+                    "name":"Santan Dave",
+                    "age":26,
+                    "id":6,
+                    "location":"London England",
+                    "dp":"/images/ap.jpg",
+                    "pictures":["/images/ab.jpg","/images/bb.jpg","/images/cb.jpg","/images/db.jpg","/images/eb.jpg"]
+                }
+            ]
+        ,
+        
+           
+            "Wedding":[
+                {
+                    "name":"Bol Frank",
+                    "age":25,
+                    "id":1,
+                    "location":"Lagos Nigeria",
+                    "dp":"/images/cp.jpg",
+                    "pictures":["/images/aw.jpg","/images/bw.jpg","/images/cw.jpg","/images/dw.jpg","/images/ew.jpg"]
+                },
+                {
+                    "name":"Stefe Walter",
+                    "age":30,
+                    "id":2,
+                    "location":"Arizona Usa",
+                    "dp":"/images/ap.jpg",
+                    "pictures":["/images/aw.jpg","/images/bw.jpg","/images/cw.jpg","/images/dw.jpg","/images/ew.jpg"]
+                },
+                {
+                    "name":"selne Lupin",
+                    "age":28,
+                    "id":3,
+                    "location":"Paris France",
+                    "dp":"/images/bp.jpg",
+                    "pictures":["/images/aw.jpg","/images/bw.jpg","/images/cw.jpg","/images/dw.jpg","/images/ew.jpg"]
+                },
+                {
+                    "name":"kaite Rooney",
+                    "age":23,
+                    "id":4,
+                    "location":"Manchester England",
+                    "dp":"/images/cp.jpg",
+                    "pictures":["/images/aw.jpg","/images/bw.jpg","/images/cw.jpg","/images/dw.jpg","/images/ew.jpg"]
+                },
+                {
+                    "name":"Vicctoria Leonard",
+                    "age":23,
+                    "id":5,
+                    "location":"Toronto Canada",
+                    "dp":"/images/dp.jpg",
+                    "pictures":["/images/aw.jpg","/images/bw.jpg","/images/cw.jpg","/images/dw.jpg","/images/ew.jpg"]
+                },
+                {
+                    "name":"Santtan Dave",
+                    "age":26,
+                    "id":6,
+                    "location":"London England",
+                    "dp":"/images/ap.jpg",
+                    "pictures":["/images/aw.jpg","/images/bw.jpg","/images/cw.jpg","/images/dw.jpg","/images/ew.jpg"]
+                }
+            ] 
+        ,
+       
+            "Graduation":[
+                {
+                    "name":"Bab Frank",
+                    "age":25,
+                    "id":1,
+                    "location":"Lagos Nigeria",
+                    "dp":"/images/cp.jpg",
+                    "pictures":["/images/ag.jpg","/images/bg.jpg","/images/cg.jpg","/images/dg.jpg","/images/bg.jpg"]
+                },
+                {
+                    "name":"Steve Wallter",
+                    "age":30,
+                    "id":2,
+                    "location":"Arizona Usa",
+                    "dp":"/images/cp.jpg",
+                    "pictures":["/images/ag.jpg","/images/bg.jpg","/images/cg.jpg","/images/dg.jpg","/images/bg.jpg"]
+                },
+                {
+                    "name":"sene Luppin",
+                    "age":28,
+                    "id":3,
+                    "location":"Paris France",
+                    "dp":"/images/ap.jpg",
+                    "pictures":["/images/ag.jpg","/images/bg.jpg","/images/cg.jpg","/images/dg.jpg","/images/bg.jpg"]
+                },
+                {
+                    "name":"kate Roonney",
+                    "age":23,
+                    "id":4,
+                    "location":"Manchester England",
+                    "dp":"/images/dp.jpg",
+                    "pictures":["/images/ag.jpg","/images/bg.jpg","/images/cg.jpg","/images/dg.jpg","/images/bg.jpg"]
+                },
+                {
+                    "name":"Victoria Leonnard",
+                    "age":23,
+                    "id":5,
+                    "location":"Toronto Canada",
+                    "dp":"/images/ep.jpg",
+                    "pictures":["/images/ag.jpg","/images/bg.jpg","/images/cg.jpg","/images/dg.jpg","/images/bg.jpg"]
+                },
+                {
+                    "name":"Santan Davve",
+                    "age":26,
+                    "id":6,
+                    "location":"London England",
+                    "dp":"/images/bp.jpg",
+                    "pictures":["/images/ag.jpg","/images/bg.jpg","/images/cg.jpg","/images/dg.jpg","/images/bg.jpg"]
+                }
+            ] 
+        ,
+       
+          "Events":[
+               {
+                    "name":"Baob Frank",
+                    "age":25,
+                    "id":1,
+                    "location":"Lagos Nigeria",
+                    "dp":"/images/ap.jpg",
+                    "pictures":["/images/ae.jpg","/images/be.jpg","/images/ce.jpg","/images/de.jpg","/images/be.jpg"]
+                },
+                {
+                    "name":"Philip Walter",
+                    "age":30,
+                    "id":2,
+                    "location":"Arizona Usa",
+                    "dp":"/images/bp.jpg",
+                    "pictures":["/images/ae.jpg","/images/be.jpg","/images/ce.jpg","/images/de.jpg","/images/be.jpg"]
+                },
+                {
+                    "name":"arsene Lupin",
+                    "age":28,
+                    "id":3,
+                    "location":"Paris France",
+                    "dp":"/images/cp.jpg",
+                    "pictures":["/images/ae.jpg","/images/be.jpg","/images/ce.jpg","/images/de.jpg","/images/be.jpg"]
+                },
+                {
+                    "name":"kale Rooney",
+                    "age":23,
+                    "id":4,
+                    "location":"Manchester England",
+                    "dp":"/images/dp.jpg",
+                    "pictures":["/images/ae.jpg","/images/be.jpg","/images/ce.jpg","/images/de.jpg","/images/be.jpg"]
+                },
+                {
+                    "name":"Victorria Leonard",
+                    "age":23,
+                    "id":5,
+                    "location":"Toronto Canada",
+                    "dp":"/images/ep.jpg",
+                    "pictures":["/images/ae.jpg","/images/be.jpg","/images/ce.jpg","/images/de.jpg","/images/be.jpg"]
+                },
+                {
+                    "name":"Santan Daavve",
+                    "age":26,
+                    "id":6,
+                    "location":"London England",
+                    "dp":"/images/ap.jpg",
+                    "pictures":["/images/ae.jpg","/images/be.jpg","/images/ce.jpg","/images/de.jpg","/images/be.jpg"]
+                }
+            ],
+            "clickers":[
+                {
+                    "id":1,
+                    "category":"Baby Shower"
+                },
+                {
+                    "id":2,
+                    "category":"Events"
+                },
+                {
+                    "id":3,
+                    "category":"Graduation"
+                },
+                {
+                    "id":4,
+                    "category":"Wedding"
+                }
+            ]
+        
+    
+}
